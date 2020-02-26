@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1032075819961",
+    "firebase_url": "https://place-of-california.firebaseio.com",
+    "project_id": "place-of-california",
+    "storage_bucket": "place-of-california.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032075819961:android:3524ba643db8579f6c5468",
+        "android_client_info": {
+          "package_name": "com.zakariapc.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032075819961-coo5fs6p9pu0a9v5tkvpn083n9hg22em.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zakariapc.test",
+            "certificate_hash": "b344b6d47f55226e648b767ba370b6af8eb798a1"
+          }
+        },
+        {
+          "client_id": "1032075819961-l143uascchnrtp46hhh0mk0gqr38cv1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6gACOK-mBk7UpLwYWOWFTkdKcxAF4I5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032075819961-l143uascchnrtp46hhh0mk0gqr38cv1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
